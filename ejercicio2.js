@@ -113,7 +113,7 @@ while (pregunta == "S"){
 
     let volver = prompt("¿Quieres calcular algo más? S/N");
     if (volver == "N") {
-        pregunta = "N";
+        pregunta = "N"; 
     }
     
 } 
